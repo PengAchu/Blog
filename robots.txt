@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pengachu.github.io/Blog/sitemap.xml
