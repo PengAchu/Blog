@@ -1,0 +1,27 @@
+disabled = false
+locale = "en-us"
+label = "English"
+weight = 1
+title = "Achu"
+
+[params]
+  displayName = "en"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "eighty_six/2.jpg"
+  secondaryLogo = "eighty_six/2.jpg"
+  logoCircle = true
+  description = "My awesome website"
+  copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Achu"
+  email = "2183744426@qq.com"
+  headline = "Emotions are a blessing and a curse unto me"
+  bio = "a lazy human"
+  image = "eighty_six/2.jpg"
+  imageQuality = 96
+  links = [
+    { github = "https://github.com/PengAchu" }
+  ]

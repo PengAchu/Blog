@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotion on Achu</title>
+    <link>http://localhost:1313/Blog/tags/emotion/</link>
+    <description>Recent content in Emotion on Achu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>2183744426@qq.com (Achu)</managingEditor>
+    <webMaster>2183744426@qq.com (Achu)</webMaster>
+    
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spring</title>
+      <link>http://localhost:1313/Blog/essay/spring/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/essay/spring/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Blog/essay/spring/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

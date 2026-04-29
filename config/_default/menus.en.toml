@@ -1,0 +1,121 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+# ---------- 随笔 -----------
+
+[[main]]
+  name = "随笔"
+  weight = 1
+
+[[main]]
+  name = "春"
+  parent = "随笔"
+  pageRef = "essay/spring"
+  weight = 1
+
+[[main]]
+  name = "夏"
+  parent = "随笔"
+  pageRef = "essay"
+  weight = 2
+
+[[main]]
+  name = "秋"
+  parent = "随笔"
+  pageRef = "essay"
+  weight = 3
+
+[[main]]
+  name = "冬"
+  parent = "随笔"
+  pageRef = "essay"
+  weight = 4
+
+# ---------- 生活 -----------
+[[main]]
+  name = "生活"
+  weight = 2
+
+[[main]]
+  name = "天门"
+  parent = "生活"
+  weight = 1
+  pageRef = "life"
+
+[[main]]
+  name = "云南"
+  parent = "生活"
+  weight = 2
+  pageRef = "life"
+
+[[main]]
+  name = "北京"
+  parent = "生活"
+  weight = 3
+  pageRef = "life"
+
+[[main]]
+  name = "成都"
+  parent = "生活"
+  weight = 4
+  pageRef = "life"
+
+# ---------- 学习 -----------
+[[main]]
+  name = "学习"
+  weight = 3
+
+[[main]]
+  name = "systemverilog"
+  parent = "学习"
+  weight = 1
+  pageRef = "study"
+
+[[main]]
+  name = "FPGA"
+  parent = "学习"
+  weight = 2
+  pageRef = "study"
+
+[[main]]
+  name = "网站搭建"
+  parent = "学习"
+  weight = 3
+  pageRef = "study"
+
+
+# ---------- 关于我 -----------
+[[main]]
+  name = "关于我"
+  weight = 4
+
+[[main]]
+  name = "介绍"
+  parent = "关于我"
+  weight = 1
+  pageRef = "about-me/self-introduction"
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
