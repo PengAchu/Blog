@@ -9,7 +9,47 @@
     <managingEditor>2183744426@qq.com (Achu)</managingEditor>
     <webMaster>2183744426@qq.com (Achu)</webMaster>
     
-    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/Blog/tags/life/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/life/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scenery</title>
+      <link>http://localhost:1313/Blog/tags/scenery/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/scenery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/Blog/tags/travel/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/travel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blowfish</title>
+      <link>http://localhost:1313/Blog/tags/blowfish/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/blowfish/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Emotion</title>
@@ -22,11 +62,31 @@
     </item>
     
     <item>
-      <title>Life</title>
-      <link>http://localhost:1313/Blog/tags/life/</link>
+      <title>Hugo</title>
+      <link>http://localhost:1313/Blog/tags/hugo/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
       <author>2183744426@qq.com (Achu)</author>
-      <guid>http://localhost:1313/Blog/tags/life/</guid>
+      <guid>http://localhost:1313/Blog/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Study</title>
+      <link>http://localhost:1313/Blog/tags/study/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/study/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>http://localhost:1313/Blog/tags/website/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/website/</guid>
       <description></description>
       
     </item>

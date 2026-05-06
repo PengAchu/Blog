@@ -9,7 +9,17 @@
     <managingEditor>2183744426@qq.com (Achu)</managingEditor>
     <webMaster>2183744426@qq.com (Achu)</webMaster>
     
-    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>嵊泗岛</title>
+      <link>http://localhost:1313/Blog/life/%E5%B5%8A%E6%B3%97%E5%B2%9B/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/life/%E5%B5%8A%E6%B3%97%E5%B2%9B/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Blog/life/%E5%B5%8A%E6%B3%97%E5%B2%9B/featured.jpg" />
+    </item>
     
     <item>
       <title>Spring</title>
@@ -19,6 +29,16 @@
       <guid>http://localhost:1313/Blog/essay/spring/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Blog/essay/spring/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>个人网站搭建</title>
+      <link>http://localhost:1313/Blog/study/website/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/study/website/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Blog/study/website/featured.jpg" />
     </item>
     
     <item>

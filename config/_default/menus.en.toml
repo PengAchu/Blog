@@ -69,6 +69,12 @@
   weight = 4
   pageRef = "life"
 
+[[main]]
+ name = "嵊泗岛"
+ parent = "生活"
+ weight = 5
+ pageRef = "life/嵊泗岛"
+
 # ---------- 学习 -----------
 [[main]]
   name = "学习"
@@ -90,7 +96,7 @@
   name = "网站搭建"
   parent = "学习"
   weight = 3
-  pageRef = "study"
+  pageRef = "study/website"
 
 
 # ---------- 关于我 -----------
