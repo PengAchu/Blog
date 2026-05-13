@@ -9,7 +9,17 @@
     <managingEditor>2183744426@qq.com (Achu)</managingEditor>
     <webMaster>2183744426@qq.com (Achu)</webMaster>
     
-    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>概伦</title>
+      <link>http://localhost:1313/Blog/essay/primarius/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/essay/primarius/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Blog/essay/primarius/featured.png" />
+    </item>
     
     <item>
       <title>个人网站搭建</title>

@@ -105,6 +105,12 @@ git push -u origin main
 
 由于不满意于blowfish的极少数页面布局点，故对layout部分做了一些修改，相关文件均在blowfish/partials/下
 
+> [!TIP]
+>
+> blowfish官方文档里指出可以不像我这样直接修改themes里的blowfish源码，而是在自己网站文件夹下的layout新建相应布局文件，Hugo会自动覆盖。
+>
+> 相应网址:[进阶自定义 · Blowfish](https://blowfish.page/zh-cn/docs/advanced-customisation/)
+
 
 
 ### homepage的背景填充

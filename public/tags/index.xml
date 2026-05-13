@@ -9,7 +9,37 @@
     <managingEditor>2183744426@qq.com (Achu)</managingEditor>
     <webMaster>2183744426@qq.com (Achu)</webMaster>
     
-    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Study</title>
+      <link>http://localhost:1313/Blog/tags/study/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/study/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/Blog/tags/thoughts/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/thoughts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/Blog/tags/work/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/work/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Life</title>
@@ -67,16 +97,6 @@
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
       <author>2183744426@qq.com (Achu)</author>
       <guid>http://localhost:1313/Blog/tags/hugo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Study</title>
-      <link>http://localhost:1313/Blog/tags/study/</link>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0800</pubDate>
-      <author>2183744426@qq.com (Achu)</author>
-      <guid>http://localhost:1313/Blog/tags/study/</guid>
       <description></description>
       
     </item>

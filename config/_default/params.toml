@@ -21,7 +21,6 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-# defaultFeaturedImage = "eighty_six/1.jpg"
 
 [header]
 layout = "fixed-fill-blur"
@@ -59,7 +58,6 @@ layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showDraftLabel = true
 showEdit = false
-# editURL = ""
 editAppendPath = true
 seriesOpened = true
 showHeadingAnchors = true

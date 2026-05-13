@@ -17,7 +17,7 @@
   weight = 1
 
 [[main]]
-  name = "春"
+  name = "活着"
   parent = "随笔"
   pageRef = "essay/spring"
   weight = 1
@@ -40,6 +40,11 @@
   pageRef = "essay"
   weight = 4
 
+[[main]]
+  name = "概伦"
+  parent = "随笔"
+  pageRef = "essay/primarius"
+  weight = 5
 # ---------- 生活 -----------
 [[main]]
   name = "生活"
@@ -109,6 +114,7 @@
   parent = "关于我"
   weight = 1
   pageRef = "about-me/self-introduction"
+
 
 
 # -- Footer Menu --
