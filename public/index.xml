@@ -9,7 +9,17 @@
     <managingEditor>2183744426@qq.com (Achu)</managingEditor>
     <webMaster>2183744426@qq.com (Achu)</webMaster>
     
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>垃圾1号</title>
+      <link>http://localhost:1313/Blog/trash/trash1/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/trash/trash1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Blog/trash/trash1/featured.png" />
+    </item>
     
     <item>
       <title>概伦</title>

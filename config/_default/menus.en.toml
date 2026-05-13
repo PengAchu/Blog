@@ -103,11 +103,20 @@
   weight = 3
   pageRef = "study/website"
 
+#----------- 垃圾桶 -----------
+[[main]]
+  name = "垃圾桶"
+  weight = 4
 
+[[main]]
+  name = "垃圾1号"
+  parent = "垃圾桶"
+  weight = 1
+  pageRef = "trash/trash1"
 # ---------- 关于我 -----------
 [[main]]
   name = "关于我"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "介绍"

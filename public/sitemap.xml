@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/Blog/</loc>
-    <lastmod>2026-05-12T00:00:00+08:00</lastmod>
+    <lastmod>2026-05-13T00:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Blog/trash/</loc>
+    <lastmod>2026-05-13T00:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Blog/trash/trash1/</loc>
+    <lastmod>2026-05-13T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
