@@ -57,22 +57,22 @@
   pageRef = "life"
 
 [[main]]
-  name = "云南"
+  name = "摄影"
   parent = "生活"
   weight = 2
-  pageRef = "life"
+  pageRef = "life/photography"
 
 [[main]]
-  name = "北京"
+  name = "动漫"
   parent = "生活"
   weight = 3
-  pageRef = "life"
+  pageRef = "life/anime"
 
 [[main]]
-  name = "成都"
+  name = "音乐"
   parent = "生活"
   weight = 4
-  pageRef = "life"
+  pageRef = "life/music"
 
 [[main]]
  name = "嵊泗岛"

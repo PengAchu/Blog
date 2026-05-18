@@ -9,7 +9,37 @@
     <managingEditor>2183744426@qq.com (Achu)</managingEditor>
     <webMaster>2183744426@qq.com (Achu)</webMaster>
     
-    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/Blog/tags/education/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/education/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hobby</title>
+      <link>http://localhost:1313/Blog/tags/hobby/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/hobby/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Personality</title>
+      <link>http://localhost:1313/Blog/tags/personality/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
+      <author>2183744426@qq.com (Achu)</author>
+      <guid>http://localhost:1313/Blog/tags/personality/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Boring Time</title>

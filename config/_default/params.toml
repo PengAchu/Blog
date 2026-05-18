@@ -13,7 +13,6 @@ hotlinkFeatureImage = false
 fingerprintAlgorithm = "sha512"
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
-firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
 selineAnalytics = { }
@@ -47,7 +46,7 @@ homepageImage = "eighty_six/4.jpg"
 [article]
 showDate = true
 showViews = true
-showLikes = false
+showLikes = true
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
@@ -114,3 +113,12 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+
+[firebase] 
+apiKey = "AIzaSyCPB64WoSc0otw32QWfYZo2l8hHnaSUhGI"
+authDomain = "blog-blowfish-75af4.firebaseapp.com"
+projectId = "blog-blowfish-75af4"
+storageBucket = "blog-blowfish-75af4.firebasestorage.app"
+messagingSenderId = "556021518657"
+appId = "1:556021518657:web:03ecd46766935d22cf91c0"
+measurementId = "G-DHHHRSJ47F" 
